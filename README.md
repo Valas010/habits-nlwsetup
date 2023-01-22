@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é app para ajudar a restrear os hábitos.
 
-- [visite o projeto online] (https://valas010.github.io/habits-nlwsetup/)
+- [visite o projeto online](https://valas010.github.io/habits-nlwsetup/)
 
 ## 🔖 Layout
 
